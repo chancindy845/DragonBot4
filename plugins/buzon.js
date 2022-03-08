@@ -4,7 +4,7 @@ let info = `
 Actualizados
 ╔════⪼ཊ༼⚚༿𖤍༾⚚༽ཏ⪻════╗
 Lista by: ⍣𝑻𝒐𝒏𝒚𝒙|ɴʙᴊ ×͜×⍣
-•Incluído By @Jhusz
+•Incluído By Dragón
 --------------------------------------------------------
 EE.UU +1
 Se interrumpe 3 veces con *
@@ -238,7 +238,7 @@ Prede: Últimos 4 dígitos#
 ╚════⪼ཊ༼⚚༿𖤍༾⚚༽ཏ⪻════╝
 `.trim() 
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🔥 JHUSZ X-X*', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*Dragón*', 'status@broadcast')
 }
 handler.command = /^(buzon|buzoneo|buzones)$/i
 

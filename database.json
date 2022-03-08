@@ -1,6 +1,6 @@
 {
-  "users": {
-    "51982178346@s.whatsapp.net": {
+  "972528662202users": {
+    "@s.whatsapp.net": {
       "healt": 100,
       "level": 0,
       "exp": 22,
@@ -62,7 +62,7 @@
       "ah": [],
       "mission": {}
     },
-    "5219991402134@s.whatsapp.net": {
+    "972528662202@s.whatsapp.net": {
       "healt": 100,
       "level": 0,
       "exp": 0,
@@ -126,7 +126,7 @@
     }
   },
   "chats": {
-    "51982178346@s.whatsapp.net": {
+    "972528662202@s.whatsapp.net": {
       "isBanned": false,
       "welcome": true,
       "detect": false,
@@ -139,7 +139,7 @@
       "antiLink2": false,
       "antiToxic": false
     },
-    "5219991402134@s.whatsapp.net": {
+    "972528662202@s.whatsapp.net": {
       "isBanned": false,
       "welcome": true,
       "detect": false,
